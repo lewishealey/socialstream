@@ -7,5 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'MetzWeb\\Instagram\\' => array($vendorDir . '/cosenary/instagram/src'),
+    'Facebook\\' => array($vendorDir . '/facebook/graph-sdk/src/Facebook'),
     'Abraham\\TwitterOAuth\\' => array($vendorDir . '/abraham/twitteroauth/src'),
 );

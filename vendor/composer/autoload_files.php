@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'aca594cec0c196659a3b7d4dc2665c0b' => $vendorDir . '/j7mbo/twitter-api-php/TwitterAPIExchange.php',
+    'c65d09b6820da036953a371c8c73a9b1' => $vendorDir . '/facebook/graph-sdk/src/Facebook/polyfills.php',
 );

@@ -2,6 +2,7 @@
     "require": {
         "cosenary/instagram": "^2.3",
         "j7mbo/twitter-api-php": "^1.0",
-        "abraham/twitteroauth": "^0.6.6"
+        "abraham/twitteroauth": "^0.6.6",
+        "facebook/graph-sdk": "^5.4"
     }
 }
